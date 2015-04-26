@@ -1,0 +1,6 @@
+img/colecciones/
+img/fondos/
+img/productos/
+.DS_STORE
+error_log
+cgi-bin/
